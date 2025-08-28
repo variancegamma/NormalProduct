@@ -1,1 +1,1 @@
-Here we compile some functions for our paper in Normal Product Distribution using Non-Central Chi-Square Distribution.
+Here we compile some functions for our paper in Normal Product Distribution using Non-Central Chi-Square Distribution. The user can replicate the simulations for power analysis and numerical cdf/pdf computations with MC checks in the paper(The cdf/pdf figures).
